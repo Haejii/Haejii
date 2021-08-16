@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Haeji</h1>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Haeji%20Yang💻&fontSize=50&animation=fadeIn&fontAlignY=40)
+
+
+<h2> Hi👋🏻 I'm Haeji</h2>
+
+
+<br>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haejii&label=Profile%20views&color=0e75b6&style=flat" alt="Haejii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haejii" alt="Haejii" /></a> </p>
