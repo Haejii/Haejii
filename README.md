@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Haeji%20Yang💻&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 
-<h2> Hi👋🏻 I'm Haeji</h2>
-
+<center> Hi👋🏻 I'm Haeji</center>
 
 <br>
 
