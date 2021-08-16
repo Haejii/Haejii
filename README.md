@@ -15,6 +15,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haejii&show_icons=true&locale=en&layout=compact" alt="Haejii" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haejii&show_icons=true&locale=en&layout=compact" alt="Haejii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Haejii&show_icons=true&locale=en" alt="Haejii" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Haejii&show_icons=true&locale=en" alt="Haejii" /></p>
