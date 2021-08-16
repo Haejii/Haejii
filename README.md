@@ -16,8 +16,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haejii&theme=flat&column=4" alt="Haejii" /></a> </p>
 
 
-<div>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haejii&show_icons=true&locale=en&layout=compact" alt="Haejii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haejii&show_icons=true&locale=en&layout=compact" alt="haejii" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Haejii&show_icons=true&locale=en" alt="Haejii" /></p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haejii&show_icons=true&locale=en" alt="haejii" /></p>
