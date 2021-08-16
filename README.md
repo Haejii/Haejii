@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<h2 align="center">My Activity</h2>
+<h2 align="center">My Activity👏🏻</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Haejii&label=Profile%20views&color=0e75b6&style=flat" alt="Haejii" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haejii" alt="Haejii" /></a> </p>
